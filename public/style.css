@@ -1,0 +1,16 @@
+body {
+  color: #fff;
+  text-align: center;
+  background: darkslateblue;
+}
+h1,
+h2 {
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 2px #000;
+}
+.btn {
+  font-weight: 600;
+  text-shadow: 2px 2px 2px #000;
+}
